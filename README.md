@@ -1,4 +1,5 @@
-🧐 More About Me:
+🧐 # About Me
+
 🔭   I’m currently working on electronic music as dj & producer
 🤝   I’m looking to collaborate on projects
 🌱   I’m currently learning React;
@@ -7,3 +8,4 @@
 📫   Feel free to ping me on LinkedIn
 📝   Checkout my resume
 📚   When I am free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
+
