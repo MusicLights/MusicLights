@@ -147,7 +147,7 @@ I created these images, feel free to use them.
 </br>
 
 <p align = "center">
-    ⭐️ From <a href="https://github.com/zumrudu-anka/">zumrudu-anka</a>
+    ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
 </p>
 
  # About me🧐
