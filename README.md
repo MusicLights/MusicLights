@@ -11,8 +11,7 @@
 
 <img src="https://media4.giphy.com/media/7Wsc6p7Ky5TBm4xI4z/giphy.gif"/>
 
-```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Music Lights github stats](https://github-readme-stats.vercel.app/api?username=musiclights&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![MusicLights github stats](https://github-readme-stats.vercel.app/api?username=musiclights&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
