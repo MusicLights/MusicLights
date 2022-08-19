@@ -12,6 +12,27 @@
 One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
 
+
+
+
+[![Twitter: MusicLights](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Paco_950)
+[![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
+[![GitHub MusicLights](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MusicLights)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
