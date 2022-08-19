@@ -5,7 +5,7 @@
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/artist/6Rq6pguiQl6Rh8cxtmmblY)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 # Follow me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
