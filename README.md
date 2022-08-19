@@ -112,7 +112,7 @@ I created these images, feel free to use them.
 </a>
 
 
-
+	
 
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
