@@ -3,7 +3,7 @@
 
 
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/artist/6Rq6pguiQl6Rh8cxtmmblY)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/4b9MmUUiCemARrc2nw6k30)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
