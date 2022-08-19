@@ -201,5 +201,5 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 ![MusicLights github stats](https://github-readme-stats.vercel.app/api?username=musiclights&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 	
 <a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
