@@ -9,7 +9,8 @@
 📝   Checkout my resume
 📚   When I am free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
 
-<img src="https://media4.giphy.com/media/7Wsc6p7Ky5TBm4xI4z/giphy.gif"/>
+One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
+<img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
 
 </br></br>
 <h2>💻 Some stats 💻</h2>
