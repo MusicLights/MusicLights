@@ -17,7 +17,7 @@
 
 
 
-🧐 # About Me
+ # About Me🧐
 
 🔭   I’m currently working on electronic music as dj & producer
 🤝   I’m looking to collaborate on projects
