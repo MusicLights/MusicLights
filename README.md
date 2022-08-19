@@ -198,6 +198,6 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 
 
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<h2> &#x1f4c8; Some stats </h2>
 
 ![MusicLights github stats](https://github-readme-stats.vercel.app/api?username=musiclights&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
