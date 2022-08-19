@@ -20,6 +20,8 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 [![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
 
 
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
