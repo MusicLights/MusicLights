@@ -39,6 +39,7 @@
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s" align='left'/>
 One of my achievements on the industry music, it was that I was A&RQ's on Revealed Recordings :)
 
+
 </br>
 </br>
 </br>
@@ -131,7 +132,6 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 
 
 <h2 align="center">Repositories</h2>
-
 <p width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 </p>
@@ -155,7 +155,7 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 
 
 
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
 
 
 
@@ -175,7 +175,12 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" align="left">
+
 <p align="center">
+<br/>
+<br/>
+<br/>
   <a href="https://www.patreon.com/onimur" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
