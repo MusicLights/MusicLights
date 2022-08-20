@@ -165,7 +165,7 @@ I created these images, feel free to use them.
 <br/>
 <br/>
 <br/>
-  <a href="https://www.patreon.com/onimur" target="_blank">
+  <a href="https://www.patreon.com/MusicLights" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
