@@ -16,6 +16,7 @@
 </br>
 📚   When I'm free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
 </br>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
@@ -151,8 +152,7 @@ I created these images, feel free to use them.
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-</br>
+
 
 <p align = "center">
     ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
