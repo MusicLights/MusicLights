@@ -1,8 +1,5 @@
 
-[![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
-[![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
-[![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 
 
 
@@ -14,7 +11,10 @@
 </h1>
 
 
-
+[![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
+[![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
+[![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
