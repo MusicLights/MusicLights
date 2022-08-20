@@ -1,4 +1,11 @@
- # About me🧐
+
+
+[![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
+[![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
+[![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
+
+
+# About me🧐
 
 🔭   I’m currently working on electronic music as dj & producer.
 </br>
@@ -83,8 +90,6 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 
 
 
-
-
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
@@ -148,9 +153,6 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 
 
 
-[![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
-[![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
-[![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
 
 
 
