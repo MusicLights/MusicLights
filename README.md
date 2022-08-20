@@ -1,4 +1,4 @@
-
+## Hi! , I'm Paco👋🏼
 
 [![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
 [![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
@@ -8,6 +8,7 @@
 
 # About me🧐
 
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 🔭   I’m currently working on electronic music as dj & producer.
 </br>
 🤝   I’m looking to collaborate on development projects.
@@ -24,7 +25,7 @@
 </br>
 📚   When I'm free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
 </br>
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
 
 One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
@@ -78,7 +79,26 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 
 
 
-
+<h2 align="center"> &#x1f4c8; GitHub Stats</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/musiclights/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/musiclights/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/musiclights/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 
