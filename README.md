@@ -155,18 +155,6 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 
 
 
-
-
-
-## &#x1f4c8; GitHub Stats
-
-
-
-
-	
-
-
-
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 
