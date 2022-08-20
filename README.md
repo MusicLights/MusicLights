@@ -14,6 +14,10 @@
 </h1>
 
 
+
+
+
+
 # About me <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
@@ -38,6 +42,10 @@
 
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s" align='left'/>
 One of my achievements on the industry music, it was that I was A&RQ's on Revealed Recordings :)
+
+
+# Spotify Playing 🎧
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/artist/6Rq6pguiQl6Rh8cxtmmblY)
 
 
 </br>
@@ -76,27 +84,6 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
 </p>
-
-
- 
-  
-
-
-# Follow me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/pacoti/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/MusicLights950">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/djmusiclights/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:paco.ti@hotmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-
 
 
 <h2 align="center"> &#x1f4c8; GitHub Stats</h2>
@@ -159,19 +146,25 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 
 
 
-## Spotify Playing 🎧
-
-
-
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/artist/6Rq6pguiQl6Rh8cxtmmblY)
-
-
-
-
 <br/>
 
+# Follow me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/pacoti/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/MusicLights950">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/djmusiclights/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:paco.ti@hotmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
  
-## Support me
+# Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
