@@ -180,7 +180,10 @@ I created these images, feel free to use them.
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
   </br>
-</p<p align = "center">
-    ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
+</p
 </p>
+</br>
+</br>
 
+<p align = "center">
+    ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
