@@ -168,50 +168,9 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
 
 
 
-
-
-
-
-
-
-
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
-
----
-
-
-
-
-
-
-
-
-</br></br>
-<h2> &#x1f4c8; Some stats </h2>
-
-![MusicLights github stats](https://github-readme-stats.vercel.app/api?username=musiclights&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-	
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-
-
-
+ 
 ## Support me
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
