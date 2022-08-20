@@ -116,7 +116,7 @@ One of my achievements on the industry music, it was that I was A&RQ's on Reveal
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=musiclights&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
