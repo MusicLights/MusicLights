@@ -25,13 +25,24 @@
 </br>
 📚   When I'm free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
 </br>
+</br>
+</br>
 
-
+<img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s" align='left'/>
 One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
-<img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
-## Skills and Tools
+# Skills and Tools
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
