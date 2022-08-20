@@ -3,6 +3,7 @@
 [![Twitter: MusicLights](https://img.shields.io/twitter/follow/MusicLights950?style=social)](https://twitter.com/MusicLights950)
 [![Linkedin: musiclights](https://img.shields.io/badge/-pacoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacoti/)](https://www.linkedin.com/in/pacoti/)
 [![GitHub MusicLights](https://img.shields.io/github/followers/JCSIVO?label=follow&style=social)](https://github.com/MusicLights)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 # About me🧐
@@ -145,19 +146,6 @@ One of my achievements on the industry music, it was that I was A&RQs on Reveale
 
 
 
-<p align = "center">
-    ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
-</p>
-
-
-
-
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
@@ -212,4 +200,8 @@ I created these images, feel free to use them.
   <a href="https://www.buymeacoffee.com/onimur" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
+  </br>
+</p<p align = "center">
+    ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
 </p>
+
