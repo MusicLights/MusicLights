@@ -1,3 +1,25 @@
+ # About me🧐
+
+🔭   I’m currently working on electronic music as dj & producer.
+</br>
+🤝   I’m looking to collaborate on development projects.
+</br>
+🌱   I’m currently learning React.
+</br>
+👨🏻‍💻   Most of my projects are available on Github.
+</br>
+💬   Ask me about anything food related, I'm happy to hear you.
+</br>
+📫   Feel free to ping me on LinkedIn.
+</br>
+📝   Checkout my resume.
+</br>
+📚   When I'm free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
+</br>
+
+One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
+<img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
+
 
 ## Skills and Tools
 <p align="left">
@@ -136,27 +158,6 @@ I created these images, feel free to use them.
     ⭐️ From <a href="https://github.com/MusicLights/">Music Lights</a>
 </p>
 
- # About me🧐
-
-🔭   I’m currently working on electronic music as dj & producer.
-</br>
-🤝   I’m looking to collaborate on development projects.
-</br>
-🌱   I’m currently learning React.
-</br>
-👨🏻‍💻   Most of my projects are available on Github.
-</br>
-💬   Ask me about anything food related, I'm happy to hear you.
-</br>
-📫   Feel free to ping me on LinkedIn.
-</br>
-📝   Checkout my resume.
-</br>
-📚   When I'm free, I read romantic novels, play piano, mix music, do exercise, play clash royale, listen to music, go lokiar with friends, travel, meet new people and places.
-</br>
-
-One of my achievements on the industry music, it was that I was A&RQs on Revealed Recordings :)
-<img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s"/>
 
 
 
