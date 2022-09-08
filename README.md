@@ -39,9 +39,9 @@
 </br>
 </br>
 </br>
-
+<--!
 <img src="https://media2.giphy.com/media/sRFGUTMAPyjNMvUsq0/200.webp?cid=ecf05e472dtf0byeiwbm0iwe67o42v47px27vy752xbary76&rid=200.webp&ct=s" align='left'/>
-One of my achievements on the industry music, it was that I was A&RQ's on Revealed Recordings :)
+One of my achievements on the industry music, it was that I was A&RQ's on Revealed Recordings :)-->
 
 
 # Spotify Playing 🎧
